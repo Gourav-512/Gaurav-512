@@ -1,149 +1,51 @@
-<h1 align="center">Hi 👋, I'm Gaurav Salunkhe</h1>
-<h3 align="center">🚀 MCA Student | Future Govt. Scientist | AI Tools & Web Dev Expert</h3>
+<h1 align="center">🧪 Gaurav Salunkhe – Future Scientist, AI Engineer & Developer</h1>
+<h3 align="center">🚀 MCA Student | GenAI + Web Dev Specialist | Govt. Scientist Aspirant (NIC, DRDO, BARC)</h3>
 
 <p align="center">
-  <a href="https://github.com/Gaurav-512">
-    <img src="https://komarev.com/ghpvc/?username=Gaurav-512&label=Profile+Views&color=0e75b6&style=flat" alt="Gaurav-512" />
-  </a>
-  <a href="https://www.linkedin.com/in/gaurav-salunkhe-">
-    <img src="https://img.shields.io/badge/-Gaurav%20Salunkhe-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" />
-  </a>
-  <a href="https://mindmatrix.io">
-    <img src="https://img.shields.io/badge/Website-MindMatrix.io-brightgreen?style=flat&logo=google-chrome" alt="Website" />
-  </a>
+  <a href="https://github.com/Gaurav-512"><img src="https://komarev.com/ghpvc/?username=Gaurav-512&style=flat-square&color=blue" alt="Profile Views"/></a>
+  <a href="https://linkedin.com/in/gaurav-salunkhe-512-g-one/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://www.youware.com/project/G-One-f2n7cbfbjj"><img src="https://img.shields.io/badge/Portfolio-G-One-orange?style=flat-square&logo=google-chrome" /></a>
+  <a href="https://instagram.com/g_one_is_ai"><img src="https://img.shields.io/badge/@g_one_is_ai-Instagram-red?style=flat-square&logo=instagram" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧠 About Me
 
-- 🎯 I'm pursuing MCA with a goal to become a **Government Scientist** *(NIC, DRDO, BARC)*  
-- 🧠 Passionate about **AI tools, automation systems, and SaaS products**  
-- 🛠️ I’ve built: `MindMatrix.io`, `Digistore.in`, `College Attendance App`, `AI Freelancing System`  
-- 📈 Building my personal brand on [Instagram](https://instagram.com/g_one_is_ai) & YouTube *(coming soon)*  
-- 🙌 Actively open to **collaboration**, internships, and freelance projects
+- 🧑‍🎓 MCA Student | 8.85 CGPA in BCA | Bharati Vidyapeeth, Sangli
+- 🔬 Preparing for **Govt. Scientist roles** – NIC, DRDO, BARC (GATE CS aspirant)
+- 🛠️ **3+ years experience** in AI-Powered Web Apps, SaaS, and Automation Tools
+- 💡 Passionate about **AI Research**, Prompt Engineering, Agentic Frameworks (LangGraph, CrewAI), and Generative AI
+- 🧪 Research-Oriented mindset – worked on deep learning models, CNNs, Genkit tools, and ML APIs
+- 📢 Building a personal tech brand @ [g_one_is_ai](https://instagram.com/g_one_is_ai)
 
 ---
 
-### 🚀 Tech Stack
+### 🔍 Career Focus
+
+> "I blend AI innovation with full-stack web development to solve real-world problems. My mission is to contribute to impactful research and technology — both in government labs and AI-powered startups."
+
+---
+
+### 🔭 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🧬 [SmartSkin AI](https://github.com/Gaurav-512/SmartSkin-AI) | Deep Learning-based skin disease classifier (CNN + Streamlit + TensorFlow) |
+| 🧠 [MindMatrix.io](https://github.com/Gaurav-512/MindMatrix) | AI tools platform (PHP + MySQL + OpenAI API) with login, usage stats |
+| 💼 [G-One Toolkit](https://github.com/Gaurav-512/G-One-Toolkit) | Resume ranker, Insta captioner, blog writer – built with OpenAI API |
+| 🍦 [Scoop Shop](https://github.com/Gaurav-512/ScoopShop) | Full-stack e-commerce (Next.js 15 + Genkit + AI image gen + Twilio simulation) |
+| 📊 [Attendance App](https://github.com/Gaurav-512/College-Attendance-App) | College-level system with PHP + MySQL + sessions |
+| 💻 [Digistore.in](#) | SaaS-based product site with digital tools (WordPress + Hostinger) |
+
+---
+
+### 🔬 Skills & Stack
 
 ```txt
-Languages     : Python, PHP, JavaScript, C#, HTML, CSS
-AI Tools Used : OpenAI, Colab, Firebase, HuggingFace
-Backend       : PHP, Firebase, MySQL, Node.js (Learning)
-Frontend      : Tailwind CSS, JS, Bootstrap, React (Basics)
-Tools & IDEs  : VS Code, Canva, Figma, GitHub, XAMPP
-📌 Featured Projects
-Here are a few cool things I've built:
-
-🔹 MindMatrix.io – AI Tools platform (login/signup, tool tracking)
-
-🔹 Digistore.in – SaaS marketplace for digital products (WordPress-based)
-
-🔹 AI Freelancing Automation – Firebase + Python + Replit system
-
-🔹 Attendance App – Used in college (PHP + MySQL)
-
-📍 Want access to these projects or use them? Message me on LinkedIn
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-512&show_icons=true&theme=tokyonight" /> <br/> <img src="https://streak-stats.demolab.com/?user=Gaurav-512&theme=tokyonight" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-512&layout=compact&theme=tokyonight" /> </p>
-📬 Let's Connect
-📩 Email: gauravsalunkheofficial@gmail.com
-
-💼 LinkedIn: linkedin.com/in/gaurav-salunkhe-
-
-📷 Instagram: @g_one_is_ai
-
-🌐 Website: MindMatrix.io
-
-⭐ “Consistency, Creativity, and Code – That’s my formula.”
-
-yaml
-Copy
-Edit
-
-Let me know if you want a **dark version** with extra animations or SVG banners.
-
----
-
-## 🧠 PHASE 3: Suggested Pinned Projects
-
-| Project Name           | Status | Suggestion |
-|------------------------|--------|------------|
-| `MindMatrix.io`        | ✅     | Make it public & SEO-friendly |
-| `College Attendance App` | ✅ | Add screenshots & short demo |
-| `AI Freelancing System` | 🔄 | Host demo (Firebase/Glitch) |
-| `AI Fashion Stylist` (Idea stage) | 🚀 | Start now – high potential |
-| `Digistore.in`         | 🟡     | Link WordPress repo or landing page |
-| `FocusFlow` (Productivity app) | ✅ | Pin it if code is clean |
-
----
-
-## 🏷️ PHASE 4: Professional Badges You Can Add
-
-Use this badge generator site:  
-👉 [https://shields.io](https://shields.io)
-
-Example badges:
-```md
-![Profile Views](https://komarev.com/ghpvc/?username=Gaurav-512)
-![Followers](https://img.shields.io/github/followers/Gaurav-512?label=Follow&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/Gaurav-512?style=social)
-![GATE Prep](https://img.shields.io/badge/🎓-GATE%20Aspirant-orange)
-🛠️ PHASE 5: GitHub Actions / Widgets
-To increase graph & stats:
-
-Auto Commit GitHub Action
-Keeps green squares active. Want me to generate the file? Just say yes.
-
-WakaTime or CodeTime widget
-Shows coding hours like:
-
-
-Dynamic Dev Card
-
-php-template
-Copy
-Edit
-<img src="https://github.com/Gaurav-512/devcard" />
-📅 PHASE 6: Daily Commit Jugaad Plan
-Time	Task
-⏰ Morning	Add 1 line to notes repo (gate-prep)
-💻 Midday	Push any MindMatrix updates
-🎯 Evening	Journal or AI idea in a daily repo
-🧠 Optional	Use GitHub Actions to auto-commit if you’re busy
-
-🧾 PHASE 7: SEO-Friendly README.md for Each Project
-Each project should have:
-
-Title + Description
-
-Features List
-
-Tech Stack
-
-Screenshots / GIFs
-
-Live Demo / Hosted URL
-
-Installation
-
-Contribute
-
-License
-
-✅ I’ll help generate for each repo once you say which one to do first.
-
-🎯 Final Goals to Match Top Dev Profiles:
- Profile README ✔️ (Now done!)
-
- Pinned top 6 projects
-
- Each project has detailed SEO README
-
- Green commit streak (daily / via actions)
-
- Link to portfolio/website
-
- Public speaking, events, or blogs (future)
+Languages     : Python, PHP, JavaScript, HTML, CSS, C, C++
+Web Dev       : Tailwind, Bootstrap, React, Next.js, XAMPP, Firebase
+AI Tools      : OpenAI, TensorFlow, Keras, Scikit-learn, Genkit, CrewAI
+Frameworks    : Streamlit, LangGraph (exploring)
+DB & APIs     : MySQL, Firebase Realtime DB, REST APIs, Postman
+Tools         : VS Code, GitHub, Canva, Colab, Google AI Studio
