@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F72585&width=435&lines=👨‍🔬+Gaurav+“G-One”+Salunkhe" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F72585&width=435&lines=👨‍🔬+Gaurav+“G-One”+Salunkhe."/>
 </h1>
 
 <h3 align="center">AI Technologist · System Architect · Future Government Scientist (NIC/DRDO/BARC)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F9FF&center=true&vCenter=true&width=950&height=35&lines=I+engineer+AI-powered+solutions+for+real+impact.;Code+is+my+craft%2C+Research+is+my+compass.;Full-stack+systems+with+purpose+%7C+Design-first+thinking.;Building+more+than+apps+—+I+build+legacies." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F9FF&center=true&vCenter=true&width=950&height=35&lines=I+engineer+AI-powered+solutions+for+real+impact.;Code+is+my+craft%2C+Research+is+my+compass.;Full-stack+systems+with+purpose+%7C+Design-first+thinking.;Building+more+than+apps+—+I+build+legacies."/>
 </p>
 
 ---
