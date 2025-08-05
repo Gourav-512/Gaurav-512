@@ -29,11 +29,12 @@
 
 | Project | Description | Tech Stack | Live |
 |--------|-------------|------------|------|
-| 🔹 [MindMatrix.io](#) | AI Tools SaaS Platform | PHP, MySQL, Firebase | 🚧 |
-| 🔹 [G-One Toolkit](#) | Personal AI Toolkit | HTML, JS, OpenAI | ✅ |
-| 🔹 [FocusFlow](#) | AI Productivity App | React, Tailwind, Firebase | 🔄 |
-| 🔹 [Digistore.in](#) | Digital Product Marketplace | WordPress, WooCommerce | 🛍️ |
+| 🔹 [MindMatrix.io](https://github.com/Gaurav-512/MindMatrixio) | AI Tools SaaS Platform | PHP, MySQL, Firebase | 🚧 |
+| 🔹 [G-One Toolkit]() | Personal AI Toolkit | HTML, JS, OpenAI | ✅ |
+| 🔹 [FocusFlow](https://github.com/Gaurav-512/focusflow-pomodoro-app) | AI Productivity App | React, Tailwind, Firebase | 🔄 |
+| 🔹 [Digistore.in]() | Digital Product Marketplace | WordPress, WooCommerce | 🛍️ |
 | 🔹 [AI Fashion Stylist](#) | Outfit Suggestion AI Tool | Python, Firebase, OpenAI | 🧠 |
+| 🔹[My-Portfolio](https://github.com/Gaurav-512/My-Portfolio) | Personal AI Tool | Python, Firebase, OpenAI  | 🧑‍🔬 |
 
 ---
 
