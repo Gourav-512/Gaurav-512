@@ -107,3 +107,38 @@ DevOps/Tools  : Git/GitHub, VS Code, XAMPP, Postman, Canva, Google AI Studio
 🔗 LinkedIn: linkedin.com/in/gaurav-salunkhe-512-g-one
 🌐 Portfolio: G-One Projects
 📷 Instagram: @g_one_is_ai
+
+✨ “Scientist isn’t just a title — it’s a mindset. I build systems that think, learn, and help.”
+— Gaurav Salunkhe
+
+yaml
+Copy
+Edit
+
+---
+
+## 🧪 BONUS: Add These Extra Tools to Level Up
+
+### ✅ Contribution Booster (GitHub Action)
+Add `.github/workflows/daily.yml` in any repo:
+```yaml
+name: Daily Commit
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Make a dummy commit
+        run: |
+          date >> activity.txt
+          git config user.name 'Gaurav-512'
+          git config user.email 'g.ouravsalunkhe4800@gmail.com'
+          git add .
+          git commit -m "Daily activity update"
+          git push
