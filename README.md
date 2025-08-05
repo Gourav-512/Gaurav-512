@@ -1,51 +1,109 @@
-<h1 align="center">🧪 Gaurav Salunkhe – Future Scientist, AI Engineer & Developer</h1>
-<h3 align="center">🚀 MCA Student | GenAI + Web Dev Specialist | Govt. Scientist Aspirant (NIC, DRDO, BARC)</h3>
+<h1 align="center">🧠 Gaurav Salunkhe – Future Scientist & AI Research Developer</h1>
+<h3 align="center">🚀 MCA Student | GenAI + Full Stack Engineer | Govt. Scientist Aspirant (NIC, DRDO, BARC)</h3>
 
 <p align="center">
   <a href="https://github.com/Gaurav-512"><img src="https://komarev.com/ghpvc/?username=Gaurav-512&style=flat-square&color=blue" alt="Profile Views"/></a>
   <a href="https://linkedin.com/in/gaurav-salunkhe-512-g-one/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://www.youware.com/project/G-One-f2n7cbfbjj"><img src="https://img.shields.io/badge/Portfolio-G-One-orange?style=flat-square&logo=google-chrome" /></a>
   <a href="https://instagram.com/g_one_is_ai"><img src="https://img.shields.io/badge/@g_one_is_ai-Instagram-red?style=flat-square&logo=instagram" /></a>
+  <a href="mailto:g.ouravsalunkhe4800@gmail.com"><img src="https://img.shields.io/badge/Email-g.ouravsalunkhe4800@gmail.com-orange?style=flat-square&logo=gmail" /></a>
 </p>
 
 ---
 
-### 🧠 About Me
+## 🧬 About Me
 
-- 🧑‍🎓 MCA Student | 8.85 CGPA in BCA | Bharati Vidyapeeth, Sangli
-- 🔬 Preparing for **Govt. Scientist roles** – NIC, DRDO, BARC (GATE CS aspirant)
-- 🛠️ **3+ years experience** in AI-Powered Web Apps, SaaS, and Automation Tools
-- 💡 Passionate about **AI Research**, Prompt Engineering, Agentic Frameworks (LangGraph, CrewAI), and Generative AI
-- 🧪 Research-Oriented mindset – worked on deep learning models, CNNs, Genkit tools, and ML APIs
-- 📢 Building a personal tech brand @ [g_one_is_ai](https://instagram.com/g_one_is_ai)
+🎓 I’m a passionate **MCA student** with 3+ years of experience in building AI-powered systems, freelancing tools, and full-stack SaaS platforms.
 
----
+🔬 I’m actively preparing for **Government Scientist roles** (NIC, DRDO, BARC) and exploring research areas like Generative AI, Agentic frameworks, and LangGraph/CrewAI.
 
-### 🔍 Career Focus
+🧠 I love transforming **ideas into real-time AI tools**, exploring cutting-edge tech, and solving social or business problems through research-backed solutions.
 
-> "I blend AI innovation with full-stack web development to solve real-world problems. My mission is to contribute to impactful research and technology — both in government labs and AI-powered startups."
+💡 Currently building my personal AI brand – [@g_one_is_ai](https://instagram.com/g_one_is_ai) and launching platforms like **MindMatrix.io** and **Digistore.in**
 
 ---
 
-### 🔭 Featured Projects
+## 🏆 Achievements
 
-| Project | Description |
-|--------|-------------|
-| 🧬 [SmartSkin AI](https://github.com/Gaurav-512/SmartSkin-AI) | Deep Learning-based skin disease classifier (CNN + Streamlit + TensorFlow) |
-| 🧠 [MindMatrix.io](https://github.com/Gaurav-512/MindMatrix) | AI tools platform (PHP + MySQL + OpenAI API) with login, usage stats |
-| 💼 [G-One Toolkit](https://github.com/Gaurav-512/G-One-Toolkit) | Resume ranker, Insta captioner, blog writer – built with OpenAI API |
-| 🍦 [Scoop Shop](https://github.com/Gaurav-512/ScoopShop) | Full-stack e-commerce (Next.js 15 + Genkit + AI image gen + Twilio simulation) |
-| 📊 [Attendance App](https://github.com/Gaurav-512/College-Attendance-App) | College-level system with PHP + MySQL + sessions |
-| 💻 [Digistore.in](#) | SaaS-based product site with digital tools (WordPress + Hostinger) |
+- 🧪 Developed & deployed AI-based Skin Disease Classifier (CNN, MobileNetV2)
+- 🚀 Created 5+ working platforms using AI + Web Dev
+- 💼 Worked as Shopify Dev, Web Dev Intern, and Tech Intern
+- 🏛️ Served as NAAC Coordinator for institutional assessment
+- 🛠️ 15+ AI tools built using OpenAI, Streamlit, PHP, Firebase
+- 📚 Ongoing GATE-CS preparation for Scientist path
 
 ---
 
-### 🔬 Skills & Stack
+## 📌 Featured Projects
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| 🧬 **[SmartSkin AI](#)** | TensorFlow, Keras, Streamlit | Deep Learning skin classifier using CNN (82% accuracy) |
+| 🧠 **[MindMatrix.io](#)** | PHP, MySQL, OpenAI API | AI tools platform with freemium model & dashboard |
+| 🔧 **[G-One AI Toolkit](#)** | OpenAI, Streamlit, PHP | 6+ tools like Blog Writer, Insta Caption, Resume Ranker |
+| 🍦 **[Scoop Shop](#)** | Next.js 15, Genkit | AI-based ice cream e-commerce app with product generation |
+| 🏫 **[Attendance System](#)** | PHP, MySQL | College Attendance App with full authentication |
+| 💻 **[Digistore.in](#)** | WordPress, Canva | SaaS platform for AI tools and digital products |
+
+> 📌 *All projects are open for collaboration, improvement, and hosting requests.*
+
+---
+
+## 🧠 Tech Stack
 
 ```txt
-Languages     : Python, PHP, JavaScript, HTML, CSS, C, C++
-Web Dev       : Tailwind, Bootstrap, React, Next.js, XAMPP, Firebase
-AI Tools      : OpenAI, TensorFlow, Keras, Scikit-learn, Genkit, CrewAI
-Frameworks    : Streamlit, LangGraph (exploring)
-DB & APIs     : MySQL, Firebase Realtime DB, REST APIs, Postman
-Tools         : VS Code, GitHub, Canva, Colab, Google AI Studio
+Languages     : Python, PHP, JavaScript, C, C++, SQL, HTML, CSS
+Frontend      : Tailwind CSS, Bootstrap, React, Next.js
+Backend       : PHP, Firebase Realtime DB, MySQL, Streamlit
+AI & ML       : TensorFlow, Keras, Scikit-learn, OpenAI, Colab, Genkit
+Frameworks    : CrewAI, LangGraph (Exploring)
+DevOps/Tools  : Git/GitHub, VS Code, XAMPP, Postman, Canva, Google AI Studio
+
+## 📜 Certifications
+🎓 Generative AI – Google
+
+🛡️ Cybersecurity Analyst – Tata Group
+
+🧠 AI Engineering – Goldman Sachs
+
+📘 Prompt Engineering with OpenAI
+
+🔧 Firebase for Developers
+
+🐍 Python Essentials – SoloLearn/Udemy
+
+📘 GATE-CS Preparation – Ongoing (2025)
+
+
+## 📊 GitHub Stats & Graphs
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-512&show_icons=true&theme=algolia&count_private=true" /> <br/> <img src="https://streak-stats.demolab.com?user=Gaurav-512&theme=algolia" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-512&layout=compact&theme=algolia" /> </p>
+
+
+## 🧪 Research Interests
+📊 Generative AI (Text-to-Toolkits, Resume Analysis, Blog Gen)
+
+🧠 Deep Learning (CNN, Image Classification, Medical AI)
+
+🔄 Automation Systems (Freelance flow, Attendance, Auto Posting)
+
+🛰️ Government AI Applications (Satellite NDVI, ISRO/DRDO)
+
+🧩 Prompt Engineering for Developer Tools & Business Systems
+
+
+## 🎯 Goals (2025–2027)
+✅ Build 10+ AI-powered open-source tools
+
+✅ Publish 1+ Research Paper on AI/ML Topic
+
+✅ Qualify GATE-CS with 60+ marks
+
+✅ Get placed in NIC, BARC, DRDO, or Research PSU
+
+✅ Launch full SaaS Product: MindMatrix.io
+
+
+## 📬 Let’s Collaborate
+📩 Email: g.ouravsalunkhe4800@gmail.com
+🔗 LinkedIn: linkedin.com/in/gaurav-salunkhe-512-g-one
+🌐 Portfolio: G-One Projects
+📷 Instagram: @g_one_is_ai
